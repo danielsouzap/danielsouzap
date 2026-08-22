@@ -1,7 +1,7 @@
 <h1 align="center">Daniel Souza Passos</h1>
 
 <p align="center">
-  Computer Science student · Python &amp; C · Information Security
+  Computer Science student · Python &amp; C
   <br/>
   Photographer and filmmaker turning workflow problems into software.
   <br/>
