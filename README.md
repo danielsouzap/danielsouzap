@@ -1,7 +1,7 @@
 <h1 align="center">Daniel Souza Passos</h1>
 
 <p align="center">
-  Computer Science student · Python &amp; C · Information Security
+  Computer Science student · Python &amp; C
   <br/>
   Photographer and filmmaker turning workflow problems into software.
   <br/>
@@ -22,15 +22,12 @@ I work as a photographer, filmmaker and video editor at a marketing agency in Br
 
 I am currently in my second semester of Computer Science at UDF, working with **Python**, **C/C++**, **SQL** and front-end fundamentals.
 
-**Where I am heading:** information security. Integrity, log analysis and applied cryptography are the areas I keep coming back to.
-
 <details>
 <summary><b>Em português</b></summary>
 
 <br/>
 
-Trabalho como fotógrafo, filmmaker e editor de vídeo em uma agência de marketing em Brasília. Gerenciar terabytes de material, cumprir prazo de cliente e ler métrica de campanha toda semana foi o que me levou à programação — comecei escrevendo código para automatizar as partes do meu próprio trabalho que consumiam meu tempo, e fiquei pelo resto.
-
+Trabalho como fotógrafo, filmmaker e editor de vídeo em uma agência de marketing em Brasília.
 Estou no segundo semestre de Ciência da Computação na UDF, trabalhando com **Python**, **C/C++**, **SQL** e fundamentos de front-end.
 
 </details>
