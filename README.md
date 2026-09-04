@@ -33,8 +33,6 @@ Trabalho como fotógrafo, filmmaker e editor de vídeo em uma agência de market
 
 Estou no segundo semestre de Ciência da Computação na UDF, trabalhando com **Python**, **C/C++**, **SQL** e fundamentos de front-end.
 
-**Para onde estou indo:** segurança da informação. Integridade de dados, análise de logs e criptografia aplicada são os assuntos aos quais eu sempre volto.
-
 </details>
 
 ---
@@ -43,8 +41,8 @@ Estou no segundo semestre de Ciência da Computação na UDF, trabalhando com **
 
 | | |
 |---|---|
-| **Building with** | Python · C · SQL · Git |
-| **Learning right now** | C++ · HTML/CSS/JavaScript · Linux |
+| **Building with** | Python · C · SQL |
+| **Learning right now** | HTML/CSS |
 | **Professional toolkit** | Premiere Pro · Lightroom · Photoshop · Campaign analytics |
 
 ---
