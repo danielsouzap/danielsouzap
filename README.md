@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-souza-8b9279349">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/danielsouzap">LinkedIn</a> ·
   <a href="https://dev.to/danielsouzap">DEV.to</a> ·
   <a href="mailto:danielayansouzapassos@gmail.com">Email</a>
 </p>
