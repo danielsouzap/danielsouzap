@@ -39,6 +39,7 @@ Aberto a estágio em desenvolvimento, dados, QA e segurança.
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**gestao-estoque-cli**](https://github.com/danielsouzap/gestao-estoque-cli) | Inventory control CLI for small businesses: products, stock entries and exits, low-stock alerts and inventory KPIs (turnover, service level, lead time). Fixed a bug where a negative exit *added* stock, made every numeric field survive invalid input, and kept all queries parameterized against SQL injection. Started as a first-semester group project; I wrote the Python code. | Python · SQLite |
 | [**reserva-carros-sql**](https://github.com/danielsouzap/reserva-carros-sql) | Relational database for a multi-branch car rental company: 5 tables, 7 foreign keys, `UNIQUE` and `CHECK` constraints. Found and fixed 3 bugs that kept the reference script from running, and wrote integrity tests that prove the database rejects invalid data. | MySQL · SQL |
 | [**algoritmos-udf**](https://github.com/danielsouzap/algoritmos-udf) | C programs from the Algorithms course, each with input validation and documented edge cases (e.g. why `-3 % 2` breaks a naive odd-number check). | C |
 
@@ -48,7 +49,7 @@ Aberto a estágio em desenvolvimento, dados, QA e segurança.
 
 | | |
 |---|---|
-| **Building with** | Python · C · SQL (MySQL) · Git |
+| **Building with** | Python · C · SQL (MySQL, SQLite) · Git |
 | **Learning right now** | HTML · CSS · JavaScript |
 | **Professional toolkit** | Premiere Pro · Lightroom · Photoshop · Campaign analytics |
 
